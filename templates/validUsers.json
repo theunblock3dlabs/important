@@ -1,6 +1,7 @@
 {
 	"validUsers": [
 		{ "user": "mood7", "pass": "0329" },
-		{ "user": "rcaunitz", "pass": "0516" }
+		{ "user": "rcaunitz", "pass": "0516" },
+		{ "user": "template", "pass": "test" }
 	]
 }
